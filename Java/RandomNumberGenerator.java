@@ -5,6 +5,10 @@ import java.util.Set;
 
 public class RandomNumberGenerator {
     public static void main(String[] args) {
+        generateRandomNumbers();
+    }
+
+    public static void generateRandomNumbers() {
         Scanner sc = new Scanner(System.in);
         System.out.print("最大値：");
         int maxValue = sc.nextInt(); // 指定された最大値
