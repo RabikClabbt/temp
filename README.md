@@ -15,7 +15,7 @@
 - **ファイル名**: `PascalCase`
 - **変数名**: `camelCase`
 - **定数名**: `UPPER_CASE`
-- **グローバル変数**: `g_`プレフィックスを付けた`camelCase` (`gExampleVar` のように)
+- **グローバル変数**: `g_`プレフィックスを付けた`camelCase` (`g_ExampleVar` のように)
 
 ## 注意点
 
